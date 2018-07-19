@@ -32,6 +32,8 @@
     "webpack-dev-server": "^3.1.4"
   },
   "dependencies": {
+    "font-awesome": "^4.7.0",
+    "hogan": "^1.0.2",
     "lodash": "^4.17.10"
   }
 }
